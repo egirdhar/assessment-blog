@@ -1,4 +1,4 @@
-package com.reljicd;
+package com.assessment;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
